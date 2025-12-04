@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on **CRM Project**
 - 🌱 Currently learning **Asp.net**
 - 💬 Ask me about **Angular, React**
-- 👨‍💻 All of my projects are on **[My GitHub](https://github.com/lilpandaz69?tab=repositories)**
+- 👨‍💻 All of my projects are on **[My GitHub](https://github.com/nourmamdouhdev?tab=repositories)**
 - 📫 How to reach me: **Nourmamdouh54@gmail.com**
 
 ---
@@ -39,9 +39,9 @@
 ## 🚩 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/lilpandaz69?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/lilpandaz69?style=for-the-badge&color=blue" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=lilpandaz69&label=Profile%20Views&color=green&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/nourmamdouhdev?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/nourmamdouhdev?style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=nourmamdouhdev&label=Profile%20Views&color=green&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Repos-8-orange?style=for-the-badge" alt="Repositories"/>
 </p>
 
@@ -52,12 +52,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilpandaz69&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilpandaz69&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&layout=compact&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lilpandaz69&theme=radical&row=1&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nourmamdouhdev&theme=radical&row=1&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 

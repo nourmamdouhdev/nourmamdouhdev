@@ -52,12 +52,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=MariooX20&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MariooX20&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariooX20&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nourmamdouhdev&theme=radical&row=1&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 

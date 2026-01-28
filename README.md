@@ -17,8 +17,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Nour mamdouh</h1>
-<h3 align="center">🚀 A passionate Junior Frontend Developer - Learning BackEnd from Egypt</h3>
+<h1 align="center"> I'm Nour mamdouh</h1>
+<h3 align="center">🚀 A passionate Junior Frontend Developer | PHP Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=25&center=true&vCenter=true&lines=Frontend+Developer;Learning+BackEnd;Open+Source+Contributor;Love+Angular+and+React;Let's+Build+Awesome+UIs!" />

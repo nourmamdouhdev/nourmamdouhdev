@@ -41,16 +41,7 @@ I’m a **Frontend Developer** focused on building modern, scalable, and high-pe
 
 ## 🚩 Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nourmamdouhdev&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
+## 📈 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nourmamdouhdev&theme=outrun&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Connect With Me
 

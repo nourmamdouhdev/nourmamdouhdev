@@ -45,37 +45,23 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🧠 CRM System
-- Full system to manage clients, sales & workflow  
-- Built with: `Angular + PHP + MySQL`  
-- 🔗 Repo: https://github.com/nourmamdouhdev
-
 ---
 
-### 🛒 Mini CRM (Tagim Company)
-- Customer & sales management dashboard  
-- Clean UI + real use case  
-- 🔗 Repo: https://github.com/nourmamdouhdev
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nourmamdouhdev&theme=outrun&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
-
-### 🎵 Music Player Website
-- Dynamic music system with database  
-- Built using: `PHP + SQL + Bootstrap`  
-- 🔗 Repo: https://github.com/nourmamdouhdev
-
----
-
-### 🏥 Prime Care System
-- Medical system (patients, doctors, data handling)  
-- Backend + DB heavy project  
-- 🔗 Repo: https://github.com/nourmamdouhdev
-
----
-
 ## 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/nourmamdouhdev  

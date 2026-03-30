@@ -22,26 +22,59 @@
 <h3 align="center">🚀 Frontend Developer | Building Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=25&center=true&vCenter=true&lines=Frontend+Engineer;Angular+%7C+React+Developer;Exploring+Backend+%26+APIs;Clean+UI+%2B+Smart+UX;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=25&center=true&vCenter=true&lines=Frontend+Engineer;Angular+%7C+React+Developer;Exploring+Backend;Clean+UI+%2B+UX;Let's+Build+🔥" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Frontend Developer** focused on building modern, scalable, and high-performance web applications.
-
-- 💼 Currently developing a **CRM System** with real-world architecture  
-- ⚡ Strong experience with **Angular & React ecosystems**  
-- 🔌 Working with **APIs, Server-side logic & backend integration**  
-- 🧠 Currently learning **ASP.NET & advanced backend concepts**  
-- 🎯 Goal: Become a **Full UI/UX Engineer + Frontend Architect**  
+- 🔭 Currently working on **CRM System**
+- 🌱 Learning **ASP.NET & Backend Development**
+- 💬 Ask me about **Angular, React, UI/UX**
+- 🎯 Goal: Become **Frontend Engineer with strong backend knowledge**
 
 ---
 
 ## 🚩 Highlights
 
-## 📈 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nourmamdouhdev&theme=outrun&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/nourmamdouhdev?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/followers/nourmamdouhdev?style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=nourmamdouhdev&label=Profile%20Views&color=green&style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 CRM System
+- Full system to manage clients, sales & workflow  
+- Built with: `Angular + PHP + MySQL`  
+- 🔗 Repo: https://github.com/nourmamdouhdev
+
+---
+
+### 🛒 Mini CRM (Tagim Company)
+- Customer & sales management dashboard  
+- Clean UI + real use case  
+- 🔗 Repo: https://github.com/nourmamdouhdev
+
+---
+
+### 🎵 Music Player Website
+- Dynamic music system with database  
+- Built using: `PHP + SQL + Bootstrap`  
+- 🔗 Repo: https://github.com/nourmamdouhdev
+
+---
+
+### 🏥 Prime Care System
+- Medical system (patients, doctors, data handling)  
+- Backend + DB heavy project  
+- 🔗 Repo: https://github.com/nourmamdouhdev
+
+---
 
 ## 📫 Connect With Me
 

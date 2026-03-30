@@ -1,9 +1,8 @@
 <!-- 🟢 START HEADER BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Server%20Side-FF6F00?style=for-the-badge&logo=server&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -16,23 +15,25 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  
 </p>
 
-<h1 align="center">I'm Nour Mamdouh</h1>
-<h3 align="center">🚀 Frontend Developer | Building Scalable Web Apps</h3>
+
+<h1 align="center"> I'm Nour mamdouh</h1>
+<h3 align="center">🚀 A passionate Junior Full Stack | PHP Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=25&center=true&vCenter=true&lines=Frontend+Engineer;Angular+%7C+React+Developer;Exploring+Backend;Clean+UI+%2B+UX;Let's+Build+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=25&center=true&vCenter=true&lines=Frontend+Developer;Learning+BackEnd;Open+Source+Contributor;Love+Angular+and+React;Let's+Build+Awesome+UIs!" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **CRM System**
-- 🌱 Learning **ASP.NET & Backend Development**
-- 💬 Ask me about **Angular, React, UI/UX**
-- 🎯 Goal: Become **Frontend Engineer with strong backend knowledge**
+- 🔭 I’m currently working on **Next js porjcts**
+- 💬 Ask me about **Angular, React**
+- 👨‍💻 All of my projects are on **[My GitHub](https://github.com/nourmamdouhdev?tab=repositories)**
+- 📫 How to reach me: **Nourmamdouh54@gmail.com**
 
 ---
 
@@ -44,25 +45,11 @@
   <img src="https://komarev.com/ghpvc/?username=nourmamdouhdev&label=Profile%20Views&color=green&style=for-the-badge"/>
 </p>
 
----
+
 ---
 
 ## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nourmamdouhdev&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nourmamdouhdev&theme=outrun&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-## 📫 Connect With Me
-
-- 💻 GitHub: https://github.com/nourmamdouhdev  
-- 📧 Email: Nourmamdouh54@gmail.com  

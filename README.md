@@ -129,26 +129,24 @@ I care about writing code that is **clean, maintainable, scalable, and built aro
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=nourmamdouhdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=nourmamdouhdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=nourmamdouhdev&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=nourmamdouhdev&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nourmamdouhdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nourmamdouhdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nourmamdouhdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-### 🔝 Top Contributed Repositories
+## 🌐 Connect With Me
 
-![](https://github-contributor-stats.vercel.app/api?username=nourmamdouhdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📧 **Email:** [nourmamdouh54@gmail.com](mailto:nourmamdouh54@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nour-mamdouh/)
+
+🐙 **GitHub:** [@nourmamdouhdev](https://github.com/nourmamdouhdev)
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=nourmamdouhdev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=nourmamdouhdev&style=flat-square)](https://visitcount.itsvg.in)

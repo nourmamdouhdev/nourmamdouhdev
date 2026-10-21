@@ -139,14 +139,4 @@ I care about writing code that is **clean, maintainable, scalable, and built aro
 
 ---
 
-## 🌐 Connect With Me
-
-📧 **Email:** [nourmamdouh54@gmail.com](mailto:nourmamdouh54@gmail.com)
-
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nour-mamdouh/)
-
-🐙 **GitHub:** [@nourmamdouhdev](https://github.com/nourmamdouhdev)
-
----
-
 [![](https://komarev.com/ghpvc/?username=nourmamdouhdev&style=flat-square)](https://visitcount.itsvg.in)

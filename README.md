@@ -148,8 +148,8 @@ More on the floor:
 ## Scoreboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=nourmamdouhdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=070014&title_color=39FF14&text_color=F4EEFF&icon_color=00F0FF&border_color=FF2BD6&ring_color=FFE600" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nourmamdouhdev&layout=compact&langs_count=8&bg_color=070014&title_color=39FF14&text_color=F4EEFF&border_color=00F0FF" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=nourmamdouhdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=070014&title_color=39FF14&text_color=F4EEFF&icon_color=00F0FF&border_color=FF2BD6&ring_color=FFE600" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nourmamdouhdev&layout=compact&langs_count=8&bg_color=070014&title_color=39FF14&text_color=F4EEFF&border_color=00F0FF" alt="Top languages" />
 </p>
 
 <p align="center">

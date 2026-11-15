@@ -82,7 +82,7 @@ The cabinet looks like a game. The work behind it is the serious part — clean 
 Click a cartridge. Each one is a real build.
 
 <details>
-<summary><b>01 · FORECAST AI</b> — sales forecasting</summary>
+<summary><img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=python&logoColor=3776AB" height="18" alt="Python" /> <b>01 · FORECAST AI</b> — sales forecasting</summary>
 <br />
 
 Enterprise-style sales forecasting. Historical sales go in. Actionable forecasts come out.
@@ -92,38 +92,45 @@ Enterprise-style sales forecasting. Historical sales go in. Actionable forecasts
 </details>
 
 <details>
-<summary><b>02 · TGOM CRM</b> — business platform</summary>
+<summary><img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=dotnet&logoColor=512BD4" height="18" alt=".NET" /> <b>02 · TGOM CRM</b> — business platform</summary>
 <br />
 
 A modular CRM with authentication and a layered backend.
 
 **Stack:** Angular, C# / .NET, Entity Framework Core, JWT.
 
-**Play:** [TgomCrm](https://github.com/nourmamdouhdev/TgomCrm)
+**Repo:** [TgomCrm](https://github.com/nourmamdouhdev/TgomCrm)
 
 </details>
 
 <details>
-<summary><b>03 · TRACE FORCE MRV</b> — emissions analytics</summary>
+<summary><img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=nextdotjs&logoColor=white" height="18" alt="Next.js" /> <b>03 · TRACE FORCE MRV</b> — emissions analytics</summary>
 <br />
 
 Analytics for emissions reporting, MRV data, quality checks, and compliance. The public build is the Egytrace cement MRV platform: Excel in, dashboards, validation, traceability, and automated reports out.
 
 **Stack:** Next.js, React, TypeScript.
 
-**Play:** [Egytrace Demo](https://github.com/nourmamdouhdev/Egytrace_Demo-)
+**Repo:** [Egytrace Demo](https://github.com/nourmamdouhdev/Egytrace_Demo-)
 
 </details>
 
 <details>
-<summary><b>04 · OPERA</b> — tourism & booking</summary>
+<summary><img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=react&logoColor=61DAFB" height="18" alt="React" /> <b>04 · OPERA</b> — tourism & booking</summary>
 <br />
 
 A tourism and booking platform: booking flows and a customer-facing web experience.
 
 </details>
 
-More on the floor: [Elzbawyh POS](https://github.com/nourmamdouhdev/3zbawyh) · [Elearn](https://github.com/nourmamdouhdev/Elearn) · [Hospital system](https://github.com/nourmamdouhdev/-Hospital-UML-Depi-Group-2) · [Portfolio](https://nourmamdouh.vercel.app/)
+More on the floor:
+<img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=php&logoColor=777BB4" height="18" alt="PHP" /> [Elzbawyh POS](https://github.com/nourmamdouhdev/3zbawyh)
+·
+<img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=nextdotjs&logoColor=white" height="18" alt="Next.js" /> [Elearn](https://github.com/nourmamdouhdev/Elearn)
+·
+<img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=python&logoColor=3776AB" height="18" alt="Python" /> [Hospital system](https://github.com/nourmamdouhdev/-Hospital-UML-Depi-Group-2)
+·
+<img src="https://img.shields.io/badge/-12001C?style=flat-square&logo=vercel&logoColor=white" height="18" alt="Vercel" /> [Portfolio](https://nourmamdouh.vercel.app/)
 
 ---
 
@@ -138,22 +145,11 @@ More on the floor: [Elzbawyh POS](https://github.com/nourmamdouhdev/3zbawyh) · 
 
 ---
 
-## Play the commit snake
-
-The snake eats the contribution grid. It updates on a daily run of GitHub Actions. Enable Actions on this repo once, and the first game board shows up after that run.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourmamdouhdev/nourmamdouhdev/output/github-snake-dark.svg" />
-    <img alt="A snake game that follows Nour's GitHub contribution graph" src="https://raw.githubusercontent.com/nourmamdouhdev/nourmamdouhdev/output/github-snake.svg" />
-  </picture>
-</p>
-
 ## Scoreboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=070014&title_color=39FF14&text_color=F4EEFF&icon_color=00F0FF&border_color=FF2BD6&ring_color=FFE600" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&layout=compact&langs_count=8&bg_color=070014&title_color=39FF14&text_color=F4EEFF&border_color=00F0FF" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=nourmamdouhdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=070014&title_color=39FF14&text_color=F4EEFF&icon_color=00F0FF&border_color=FF2BD6&ring_color=FFE600" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nourmamdouhdev&layout=compact&langs_count=8&bg_color=070014&title_color=39FF14&text_color=F4EEFF&border_color=00F0FF" alt="Top languages" />
 </p>
 
 <p align="center">

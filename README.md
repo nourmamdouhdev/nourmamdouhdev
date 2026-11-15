@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/arcade-marquee.gif" alt="Nour Arcade. A pixel cabinet marquee: neon frame, space invaders, a moving ship, and a blinking Insert Coin prompt." width="100%" />
+  <img src="assets/arcade-marquee.gif" alt="Nour Mamdouh. Full-stack developer. Neon arcade lights, SaaS and enterprise." width="100%" />
 </p>
 
 <p align="center">

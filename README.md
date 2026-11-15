@@ -1,142 +1,175 @@
-# 👋 Hi, I'm Nour Mamdouh
+<p align="center">
+  <img src="assets/arcade-marquee.gif" alt="Nour Arcade. A pixel cabinet marquee: neon frame, space invaders, a moving ship, and a blinking Insert Coin prompt." width="100%" />
+</p>
 
-### 🚀 Full-Stack Developer | SaaS & Enterprise Applications
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=760&height=46&lines=INSERT+COIN+TO+START;FULL-STACK+DEVELOPER;SAAS+%2B+ENTERPRISE+APPS;AI+POWER-UPS+LOADED;BASED+IN+EGYPT" alt="Typing line: Insert coin to start. Full-stack developer. SaaS and enterprise apps. AI power-ups loaded. Based in Egypt." />
+</p>
 
-I'm a **Full-Stack Developer** and Information Technology student focused on building modern, scalable, and production-ready applications.
-
-I enjoy turning real-world business problems into **clean, reliable, and user-friendly software** — from responsive web applications to complete SaaS platforms, business systems, and data-driven dashboards.
-
----
-
-## 💫 About Me
-
-- 💻 Building **Full-Stack Web Applications, SaaS Products & Business Platforms**
-- 🚀 Working mainly with **React, Next.js, TypeScript, .NET, Node.js & Python**
-- 🧠 Interested in **AI-powered applications, data analytics & intelligent systems**
-- 🏗️ Focused on **scalable architecture, APIs, databases & system design**
-- ☁️ Exploring **Cloud, DevOps & modern deployment workflows**
-- 🎓 Information Technology Student
-- 🤝 Open to interesting projects, collaborations, and opportunities
+<p align="center">
+  <a href="https://nourmamdouh.vercel.app/"><img src="https://img.shields.io/badge/BONUS_STAGE-portfolio-39FF14?style=for-the-badge&labelColor=12001C&logo=vercel&logoColor=39FF14" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nour-mamdouh/"><img src="https://img.shields.io/badge/COIN_SLOT-LinkedIn-00F0FF?style=for-the-badge&labelColor=12001C&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
+  <a href="mailto:nourmamdouh54@gmail.com"><img src="https://img.shields.io/badge/HIGH_SCORE-email-FF2BD6?style=for-the-badge&labelColor=12001C&logo=gmail&logoColor=FF2BD6" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/BASE-Egypt-FFE600?style=for-the-badge&labelColor=12001C" alt="Egypt" />
+  <img src="https://komarev.com/ghpvc/?username=nourmamdouhdev&style=for-the-badge&color=39FF14&label=PLAYERS&labelColor=12001C" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Player 1
 
-### Frontend
+I'm **Nour Mamdouh**, a full-stack developer and Information Technology student at **Systemize**. I build software people can actually run in production: SaaS products, business platforms, and data-driven dashboards.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+The cabinet looks like a game. The work behind it is the serious part — clean architecture, real users, and systems that hold up after launch.
 
-### Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases & Backend Services
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools, DevOps & Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### AI & Data
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+| Stat | Loadout |
+| --- | --- |
+| Class | Full-stack developer |
+| Main quest | SaaS, enterprise apps, and business platforms |
+| Weapons | React, Next.js, TypeScript, .NET, Node.js, Python |
+| Side quests | AI apps, analytics, cloud, and DevOps |
+| Status | Open to projects, collaborations, and new runs |
 
 ---
 
-## 🧩 What I Build
+## Power-ups
 
-### 💼 Business & SaaS
-CRM systems, business management platforms, dashboards, invoicing systems, and SaaS products.
+**Frontend**
 
-### 🤖 AI & Data
-Machine-learning applications, forecasting platforms, analytics dashboards, and data-driven decision systems.
+![React](https://img.shields.io/badge/React-12001C?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-12001C?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-12001C?style=flat-square&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-12001C?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-12001C?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-12001C?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-12001C?style=flat-square&logo=vite&logoColor=646CFF)
 
-### 🏢 Enterprise Applications
-Enterprise dashboards, traceability platforms, reporting systems, and complex business workflows.
+**Backend**
 
-### 🌍 Web & Booking
-Modern websites, booking platforms, tourism applications, and customer-facing web experiences.
+![.NET](https://img.shields.io/badge/.NET-12001C?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Node.js](https://img.shields.io/badge/Node.js-12001C?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-12001C?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-12001C?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-12001C?style=flat-square&logo=fastapi&logoColor=009688)
 
----
+**Data & services**
 
-## 🚀 Featured Projects
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12001C?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-12001C?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQL Server](https://img.shields.io/badge/SQL_Server-12001C?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![Supabase](https://img.shields.io/badge/Supabase-12001C?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![SQLite](https://img.shields.io/badge/SQLite-12001C?style=flat-square&logo=sqlite&logoColor=003B57)
 
-### 📊 Forecast AI
+**Tools**
 
-Enterprise-style sales forecasting platform combining **React, FastAPI, Python, Scikit-learn, and data visualization** to transform historical sales data into actionable forecasts.
+![Git](https://img.shields.io/badge/Git-12001C?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-12001C?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-12001C?style=flat-square&logo=linux&logoColor=FCC624)
+![Vercel](https://img.shields.io/badge/Vercel-12001C?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-12001C?style=flat-square&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-12001C?style=flat-square&logo=figma&logoColor=F24E1E)
 
-### 🏢 Tgom CRM
+**AI & data**
 
-A modular full-stack CRM platform built with **Angular, C#/.NET, Entity Framework Core, JWT authentication, and layered architecture**.
-
-### 🌱 TRACE FORCE MRV
-
-A **Next.js + React analytics platform** for emissions reporting, MRV data processing, quality checks, and compliance-focused analytics.
-
-### 🌍 Opera
-
-A tourism and booking platform focused on modern user experiences, booking workflows, and digital services.
-
----
-
-## 🎯 Currently
-
-- 🔨 Building **full-stack SaaS and enterprise applications**
-- 🏗️ Improving **system architecture and backend engineering**
-- 🤖 Exploring **AI integration and intelligent software**
-- ☁️ Learning more about **Cloud, DevOps, and scalable application design**
-
----
-
-## ⚡ My Philosophy
-
-> **Build software that solves real problems — not just software that works.**
-
-I care about writing code that is **clean, maintainable, scalable, and built around real user needs.**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-12001C?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-12001C?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-12001C?style=flat-square&logo=numpy&logoColor=013243)
 
 ---
 
-## 🌐 Connect With Me
+## Select a cabinet
 
-📧 **Email:** [nourmamdouh54@gmail.com](mailto:nourmamdouh54@gmail.com)
+Click a cartridge. Each one is a real build.
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/nour-mamdouh/)
+<details>
+<summary><b>01 · FORECAST AI</b> — sales forecasting</summary>
+<br />
 
-🐙 **GitHub:** [@nourmamdouhdev](https://github.com/nourmamdouhdev)
+Enterprise-style sales forecasting. Historical sales go in. Actionable forecasts come out.
+
+**Stack:** React, FastAPI, Python, scikit-learn, and data visualization.
+
+</details>
+
+<details>
+<summary><b>02 · TGOM CRM</b> — business platform</summary>
+<br />
+
+A modular CRM with authentication and a layered backend.
+
+**Stack:** Angular, C# / .NET, Entity Framework Core, JWT.
+
+**Play:** [TgomCrm](https://github.com/nourmamdouhdev/TgomCrm)
+
+</details>
+
+<details>
+<summary><b>03 · TRACE FORCE MRV</b> — emissions analytics</summary>
+<br />
+
+Analytics for emissions reporting, MRV data, quality checks, and compliance. The public build is the Egytrace cement MRV platform: Excel in, dashboards, validation, traceability, and automated reports out.
+
+**Stack:** Next.js, React, TypeScript.
+
+**Play:** [Egytrace Demo](https://github.com/nourmamdouhdev/Egytrace_Demo-)
+
+</details>
+
+<details>
+<summary><b>04 · OPERA</b> — tourism & booking</summary>
+<br />
+
+A tourism and booking platform: booking flows and a customer-facing web experience.
+
+</details>
+
+More on the floor: [Elzbawyh POS](https://github.com/nourmamdouhdev/3zbawyh) · [Elearn](https://github.com/nourmamdouhdev/Elearn) · [Hospital system](https://github.com/nourmamdouhdev/-Hospital-UML-Depi-Group-2) · [Portfolio](https://nourmamdouh.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats
+## Now playing
 
-![](https://github-readme-stats.shion.dev/api?username=nourmamdouhdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+- Shipping full-stack SaaS and enterprise applications
+- Tightening system architecture and backend design
+- Plugging AI into software that already has a job to do
+- Learning cloud, DevOps, and how apps scale
 
-![](https://streak-stats.demolab.com/?user=nourmamdouhdev&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nourmamdouhdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+> Build software that solves real problems — not just software that works.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=nourmamdouhdev&style=flat-square)](https://visitcount.itsvg.in)
+## Play the commit snake
+
+The snake eats the contribution grid. It updates on a daily run of GitHub Actions. Enable Actions on this repo once, and the first game board shows up after that run.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourmamdouhdev/nourmamdouhdev/output/github-snake-dark.svg" />
+    <img alt="A snake game that follows Nour's GitHub contribution graph" src="https://raw.githubusercontent.com/nourmamdouhdev/nourmamdouhdev/output/github-snake.svg" />
+  </picture>
+</p>
+
+## Scoreboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=070014&title_color=39FF14&text_color=F4EEFF&icon_color=00F0FF&border_color=FF2BD6&ring_color=FFE600" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourmamdouhdev&layout=compact&langs_count=8&bg_color=070014&title_color=39FF14&text_color=F4EEFF&border_color=00F0FF" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nourmamdouhdev&background=070014&stroke=FF2BD6&ring=39FF14&fire=FFE600&currStreakLabel=00F0FF&sideNums=F4EEFF&currStreakNum=39FF14&sideLabels=C9B8E8&dates=9A8BB8&border=FF2BD6" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourmamdouhdev&bg_color=070014&color=F4EEFF&line=FF2BD6&point=39FF14&area=true&hide_border=false&custom_title=Activity%20this%20year" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <a href="https://nourmamdouh.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/nour-mamdouh/">LinkedIn</a>
+  ·
+  <a href="mailto:nourmamdouh54@gmail.com">nourmamdouh54@gmail.com</a>
+  ·
+  <a href="https://github.com/nourmamdouhdev">GitHub</a>
+</p>

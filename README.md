@@ -1,38 +1,37 @@
 <p align="center">
-  <img src="assets/arcade-marquee.gif" alt="Nour Arcade. A pixel cabinet marquee: neon frame, space invaders, a moving ship, and a blinking Insert Coin prompt." width="100%" />
+  <img src="assets/arcade-marquee.gif" alt="Nour Mamdouh. Full-stack developer. Neon arcade marquee with chasing lights." width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=760&height=46&lines=INSERT+COIN+TO+START;FULL-STACK+DEVELOPER;SAAS+%2B+ENTERPRISE+APPS;AI+POWER-UPS+LOADED;BASED+IN+EGYPT" alt="Typing line: Insert coin to start. Full-stack developer. SaaS and enterprise apps. AI power-ups loaded. Based in Egypt." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=760&height=42&lines=FULL-STACK+DEVELOPER;SAAS+AND+ENTERPRISE+APPS;AI+AND+DATA+SYSTEMS;INFORMATION+TECHNOLOGY;BASED+IN+EGYPT" alt="Full-stack developer. SaaS and enterprise apps. AI and data systems. Information technology. Based in Egypt." />
 </p>
 
 <p align="center">
-  <a href="https://nourmamdouh.vercel.app/"><img src="https://img.shields.io/badge/BONUS_STAGE-portfolio-39FF14?style=for-the-badge&labelColor=12001C&logo=vercel&logoColor=39FF14" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nour-mamdouh/"><img src="https://img.shields.io/badge/COIN_SLOT-LinkedIn-00F0FF?style=for-the-badge&labelColor=12001C&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
-  <a href="mailto:nourmamdouh54@gmail.com"><img src="https://img.shields.io/badge/HIGH_SCORE-email-FF2BD6?style=for-the-badge&labelColor=12001C&logo=gmail&logoColor=FF2BD6" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/BASE-Egypt-FFE600?style=for-the-badge&labelColor=12001C" alt="Egypt" />
-  <img src="https://komarev.com/ghpvc/?username=nourmamdouhdev&style=for-the-badge&color=39FF14&label=PLAYERS&labelColor=12001C" alt="Profile views" />
+  <a href="https://nourmamdouh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=070012&labelColor=39FF14" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nour-mamdouh/"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=070012&labelColor=00F0FF" alt="LinkedIn" /></a>
+  <a href="mailto:nourmamdouh54@gmail.com"><img src="https://img.shields.io/badge/Email-FF2BD6?style=for-the-badge&logo=gmail&logoColor=070012&labelColor=FF2BD6" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Egypt-FFE600?style=for-the-badge&logoColor=070012&labelColor=FFE600" alt="Egypt" />
+  <img src="https://komarev.com/ghpvc/?username=nourmamdouhdev&style=for-the-badge&color=070012&label=Visits&labelColor=39FF14" alt="Profile visits" />
 </p>
 
----
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-## Player 1
+<img src="assets/banner-about.gif" alt="About" width="100%" />
 
-I'm **Nour Mamdouh**, a full-stack developer and Information Technology student at **Systemize**. I build software people can actually run in production: SaaS products, business platforms, and data-driven dashboards.
+I'm **Nour Mamdouh**, a full-stack developer and Information Technology student at **Systemize**. I build software that holds up in production: SaaS products, business platforms, and data-driven dashboards.
 
-The cabinet looks like a game. The work behind it is the serious part — clean architecture, real users, and systems that hold up after launch.
+I care about clean architecture, reliable APIs, and interfaces people can actually use.
 
-| Stat | Loadout |
+| | |
 | --- | --- |
-| Class | Full-stack developer |
-| Main quest | SaaS, enterprise apps, and business platforms |
-| Weapons | React, Next.js, TypeScript, .NET, Node.js, Python |
-| Side quests | AI apps, analytics, cloud, and DevOps |
-| Status | Open to projects, collaborations, and new runs |
+| Focus | SaaS, enterprise apps, and business platforms |
+| Stack | React, Next.js, TypeScript, .NET, Node.js, Python |
+| Also | AI applications, analytics, cloud, and DevOps |
+| Open to | Projects, collaborations, and new roles |
 
----
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-## Power-ups
+<img src="assets/banner-stack.gif" alt="Tech stack" width="100%" />
 
 **Frontend**
 
@@ -52,7 +51,7 @@ The cabinet looks like a game. The work behind it is the serious part — clean 
 ![Python](https://img.shields.io/badge/Python-12001C?style=flat-square&logo=python&logoColor=3776AB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-12001C?style=flat-square&logo=fastapi&logoColor=009688)
 
-**Data & services**
+**Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12001C?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-12001C?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -69,87 +68,57 @@ The cabinet looks like a game. The work behind it is the serious part — clean 
 ![Postman](https://img.shields.io/badge/Postman-12001C?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Figma](https://img.shields.io/badge/Figma-12001C?style=flat-square&logo=figma&logoColor=F24E1E)
 
-**AI & data**
+**AI and data**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-12001C?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![pandas](https://img.shields.io/badge/pandas-12001C?style=flat-square&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-12001C?style=flat-square&logo=numpy&logoColor=013243)
 
----
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-## Select a cabinet
+<img src="assets/banner-work.gif" alt="Selected work" width="100%" />
 
-Click a cartridge. Each one is a real build.
+**Forecast AI** — sales forecasting
+Historical sales become forecasts a team can act on.
+React, FastAPI, Python, scikit-learn, and data visualization.
 
-<details>
-<summary><b>01 · FORECAST AI</b> — sales forecasting</summary>
-<br />
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-Enterprise-style sales forecasting. Historical sales go in. Actionable forecasts come out.
+**[Tgom CRM](https://github.com/nourmamdouhdev/TgomCrm)** — business platform
+Modular CRM with authentication and a layered backend.
+Angular, C# / .NET, Entity Framework Core, and JWT.
 
-**Stack:** React, FastAPI, Python, scikit-learn, and data visualization.
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-</details>
+**[Trace Force MRV](https://github.com/nourmamdouhdev/Egytrace_Demo-)** — emissions analytics
+Reporting, quality checks, and compliance for MRV data. The public build is Egytrace: Excel in, dashboards, validation, traceability, and automated reports out.
+Next.js, React, and TypeScript.
 
-<details>
-<summary><b>02 · TGOM CRM</b> — business platform</summary>
-<br />
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-A modular CRM with authentication and a layered backend.
+**Opera** — tourism and booking
+Booking flows and a customer-facing web experience.
 
-**Stack:** Angular, C# / .NET, Entity Framework Core, JWT.
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-**Play:** [TgomCrm](https://github.com/nourmamdouhdev/TgomCrm)
+Also on GitHub: [Elzbawyh POS](https://github.com/nourmamdouhdev/3zbawyh) · [Elearn](https://github.com/nourmamdouhdev/Elearn) · [Hospital system](https://github.com/nourmamdouhdev/-Hospital-UML-Depi-Group-2) · [Portfolio](https://nourmamdouh.vercel.app/)
 
-</details>
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
 
-<details>
-<summary><b>03 · TRACE FORCE MRV</b> — emissions analytics</summary>
-<br />
+<img src="assets/banner-now.gif" alt="Currently" width="100%" />
 
-Analytics for emissions reporting, MRV data, quality checks, and compliance. The public build is the Egytrace cement MRV platform: Excel in, dashboards, validation, traceability, and automated reports out.
-
-**Stack:** Next.js, React, TypeScript.
-
-**Play:** [Egytrace Demo](https://github.com/nourmamdouhdev/Egytrace_Demo-)
-
-</details>
-
-<details>
-<summary><b>04 · OPERA</b> — tourism & booking</summary>
-<br />
-
-A tourism and booking platform: booking flows and a customer-facing web experience.
-
-</details>
-
-More on the floor: [Elzbawyh POS](https://github.com/nourmamdouhdev/3zbawyh) · [Elearn](https://github.com/nourmamdouhdev/Elearn) · [Hospital system](https://github.com/nourmamdouhdev/-Hospital-UML-Depi-Group-2) · [Portfolio](https://nourmamdouh.vercel.app/)
-
----
-
-## Now playing
-
-- Shipping full-stack SaaS and enterprise applications
-- Tightening system architecture and backend design
-- Plugging AI into software that already has a job to do
-- Learning cloud, DevOps, and how apps scale
-
-> Build software that solves real problems — not just software that works.
-
----
-
-## Play the commit snake
-
-The snake eats the contribution grid. It updates on a daily run of GitHub Actions. Enable Actions on this repo once, and the first game board shows up after that run.
+- Building full-stack SaaS and enterprise applications
+- Improving system architecture and backend design
+- Bringing AI into software that already has a job to do
+- Learning cloud, DevOps, and how applications scale
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourmamdouhdev/nourmamdouhdev/output/github-snake-dark.svg" />
-    <img alt="A snake game that follows Nour's GitHub contribution graph" src="https://raw.githubusercontent.com/nourmamdouhdev/nourmamdouhdev/output/github-snake.svg" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4200&pause=1400&color=FFE600&center=true&vCenter=true&repeat=true&width=820&height=40&lines=BUILD+SOFTWARE+THAT+SOLVES+REAL+PROBLEMS" alt="Build software that solves real problems." />
 </p>
 
-## Scoreboard
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
+
+<img src="assets/banner-stats.gif" alt="GitHub" width="100%" />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nourmamdouhdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=070014&title_color=39FF14&text_color=F4EEFF&icon_color=00F0FF&border_color=FF2BD6&ring_color=FFE600" alt="GitHub stats" />
@@ -161,8 +130,12 @@ The snake eats the contribution grid. It updates on a daily run of GitHub Action
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourmamdouhdev&bg_color=070014&color=F4EEFF&line=FF2BD6&point=39FF14&area=true&hide_border=false&custom_title=Activity%20this%20year" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourmamdouhdev&bg_color=070014&color=F4EEFF&line=FF2BD6&point=39FF14&area=true&hide_border=false&custom_title=Activity%20this%20year" alt="Contribution activity this year" />
 </p>
+
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
+
+<img src="assets/banner-connect.gif" alt="Connect" width="100%" />
 
 <p align="center">
   <a href="https://nourmamdouh.vercel.app/">Portfolio</a>
@@ -173,3 +146,5 @@ The snake eats the contribution grid. It updates on a daily run of GitHub Action
   ·
   <a href="https://github.com/nourmamdouhdev">GitHub</a>
 </p>
+
+<img src="assets/arcade-lights.gif" alt="" width="100%" />
